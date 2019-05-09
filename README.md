@@ -4,7 +4,7 @@ Queens College - CSCI 715 Distributed Computing (Professor : Simina Fluture)
 344- 715 SP2018
 DUE DATE: April 20
 
-                                                             The Shuttle-Station Monitor
+                                                 The Shuttle-Station Monitor
                                                              
 Our space fleet contains numShuttle shuttles. As an initial state, all shuttles are in the air, cruising (simulated by sleep of random time), and the space station is empty.
 
